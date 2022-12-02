@@ -1,0 +1,15 @@
+{
+  "name": "cypressecommerce",
+  "version": "1.0.0",
+  "description": "Ecommerce Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chris o",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.10.0",
+    "cypress-iframe": "^1.0.1"
+  }
+}
